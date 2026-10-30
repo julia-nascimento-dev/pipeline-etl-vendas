@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,product,quantity,unit_price,region
+V001,2026-01-02,C101,Caderno,2,19.90,Sudeste
+V002,2026-01-03,C102,Caneta,10,2.50,Sul
+V003,2026-01-04,C103,Mochila,1,129.90,Nordeste
+V004,2026-01-05,C104,Estojo,0,15.00,Sudeste
+V005,data-invalida,C105,Lapis,4,1.50,Norte
+V006,2026-01-07,,Agenda,1,29.90,Centro-Oeste
+V007,2026-01-08,C107,Garrafa,2,-10.00,Sul
+V008,2026-01-09,C108,Marcador,3,6.50,Sudeste
